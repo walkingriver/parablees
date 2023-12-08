@@ -1,0 +1,10 @@
+# NPM and Node artifacts
+node_modules/
+package-lock.json
+yarn.lock
+
+# Pandoc binary file outputs
+*.docx
+*.epub
+*.pdf
+output/

@@ -1,0 +1,23 @@
+{
+  "tabWidth": 2,
+  "printWidth": 60,
+  "useTabs": false,
+  "overrides": [
+    {
+      "files": "*.md",
+      "options": {
+        "printWidth": 80,
+        "requirePragma": false,
+        "singleQuote": false,
+        "proseWrap": "never"
+      }
+    },
+    {
+      "files": "package.json",
+      "options": {
+        "parser": "json",
+        "proseWrap": "preserve"
+      }
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # Persistent Debugging: A Tale of an Unyielding Developer
 
-!["Image of a female software developer, Alex, working late at night in a modern office. She is focused on a large computer monitor, illuminated by the glow of the screen showing complex code and debugging tools. The dimly lit office subtly reveals elements of Silicon Valley, with technology posters and modern gadgets in the background, highlighting her dedication and concentration in solving a challenging problem."](./images/debugging.png){ width=4.5in }
+!["Image of a female software developer, Alex, working late at night in a modern office. She is focused on a large computer monitor, illuminated by the glow of the screen showing complex code and debugging tools. The dimly lit office subtly reveals elements of Silicon Valley, with technology posters and modern gadgets in the background, highlighting her dedication and concentration in solving a challenging problem."](./images/debugging.png)
 
 In the dynamic realm of Silicon Valley, there was a software engineer named Alex. She was renowned for her dedication to resolving complex bugs in her company's flagship software, Virtuoso. This application was a cornerstone of the company's success, but it had been plagued by a stubborn and elusive bug that disrupted user experience.
 

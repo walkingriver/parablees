@@ -1,6 +1,6 @@
 # Open Source Forgiveness
 
-![Jonathan mentoring William in a collaborative tech workspace with Phillip observing supportively](./images/collaboration.png){ width=4.5in }
+![Jonathan mentoring William in a collaborative tech workspace with Phillip observing supportively](./images/collaboration.png)
 
 In the heart of a thriving tech city, a vibrant open-source software community thrived, known for its groundbreaking projects and collaborative spirit. Jonathan, a seasoned software developer, was at the forefront of one of the most ambitious projects in the community, widely respected for his expertise and leadership.
 

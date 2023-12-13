@@ -1,6 +1,6 @@
 # Echoes of CodeScape: Adaptation in a Digital Age
 
-![A contrasting scene of an old and new digital city, with a figure gazing at the old city and a team of diverse developers engaging in the new, vibrant cityscape.](./images/codescape.png){ width=4.5in }
+![A contrasting scene of an old and new digital city, with a figure gazing at the old city and a team of diverse developers engaging in the new, vibrant cityscape.](./images/codescape.png)
 
 In the sprawling expanse of CodeScape, a digital metropolis of towering data structures and winding information highways, there existed a revered methodology. This methodology, a tapestry of traditional coding practices and long-established protocols, was the lifeblood of CodeScape. Its creators and practitioners, seasoned developers, and architects had built their careers upon these foundational principles, coding in rhythms as ancient and revered as the city itself.
 

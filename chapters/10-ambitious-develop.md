@@ -1,6 +1,6 @@
 # The Ambitious Developer
 
-![Image depicting Casey in a modest IT support office and Jordan in an upscale office at CodeCrafters, symbolizing their respective journeys and roles in the story.](./images/ambition.png){ width=4.5in }
+![Image depicting Casey in a modest IT support office and Jordan in an upscale office at CodeCrafters, symbolizing their respective journeys and roles in the story.](./images/ambition.png)
 
 In the heart of Digital Haven, a hub of technological innovation, stood the illustrious company CodeCrafters, co-founded by the strategic Morgan and two adept developers, Jordan and Casey. Known for groundbreaking software solutions, CodeCrafters was a beacon in the tech world.
 

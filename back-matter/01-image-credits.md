@@ -1,6 +1,6 @@
 # Image Credits
 
-![Abstract representation of AI collaboration in story and image creation, showcasing a fusion of text and digital imagery.](../chapters/images/image-credits.png){ width=4.5in }
+![Abstract representation of AI collaboration in story and image creation, showcasing a fusion of text and digital imagery.](../chapters/images/image-credits.png)
 
 The images that grace the pages of this book are the product of a revolutionary collaboration between advanced artificial intelligence (AI) technologies: Dall-E and ChatGPT.
 

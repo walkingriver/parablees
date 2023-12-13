@@ -1,6 +1,6 @@
 # The Ethical Dilemma of a Software Manager: Resource Management in Tech
 
-![In a modern office setting, a software manager is engaged in an ethical dilemma, surrounded by a diverse team of developers.](./images/ethical-manager.png){ width=4.5in }
+![In a modern office setting, a software manager is engaged in an ethical dilemma, surrounded by a diverse team of developers.](./images/ethical-manager.png)
 
 In the bustling heart of Silicon Valley, amidst the sprawling campuses of tech giants and startups alike, stood the modest office of NexTech Solutions. Inside, a drama of ethical proportions was unfolding, unknown to many but weighing heavily on one.
 

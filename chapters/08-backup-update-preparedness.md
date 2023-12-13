@@ -1,6 +1,6 @@
 # Backup and Update Preparedness: The IT Emergency Plan
 
-![Contrast between prepared and unprepared software developers in a tech office during an IT emergency simulation](./images/emergency-plan.png){ width=4.5in }
+![Contrast between prepared and unprepared software developers in a tech office during an IT emergency simulation](./images/emergency-plan.png)
 
 In a bustling tech hub, a group of ten software engineers worked at NextGen Technologies, a company renowned for its cutting-edge software solutions. These engineers, though equally talented, had different approaches to their work. They were split into two teams: Team Alpha, led by Sophia, and Team Beta, led by Ava.
 

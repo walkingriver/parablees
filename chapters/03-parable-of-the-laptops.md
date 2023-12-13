@@ -1,6 +1,6 @@
 # Parable of the Laptops
 
-![Individuals in three groups interact with laptops differently in Technoshire - one group engages in coding and problem-solving, another in leisure activities, and the third hesitates in self-doubt, under the observant eye of a wise, elderly company owner.](./images/technoshire.png)
+![Individuals in three groups interact with laptops differently in Technoshire - one group engages in coding and problem-solving, another in leisure activities, and the third hesitates in self-doubt, under the observant eye of a wise, elderly company owner.](./images/technoshire.png){ width=4.5in }
 
 In the thriving land of Technoshire, the owner of a prominent company looked out across the populace. Sensing untapped potential far and wide, he offered each person a sleek laptop. “These are not mere devices,” he announced to all, “they are gateways to a future full of opportunities. I see in each of you the potential to become architects of solutions, creators of the future. Alongside these laptops, I offer you a world of knowledge, accessible to all who seek it.”
 

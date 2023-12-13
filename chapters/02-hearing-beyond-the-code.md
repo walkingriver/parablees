@@ -1,6 +1,6 @@
 # Hearing Beyond the Code
 
-![Split-scene image contrasting Agile and Waterfall work environments: Left side shows Sarah, an Agile leader, in a vibrant, collaborative setting with tech tools; right side depicts Dan, a Waterfall leader, in a structured, muted office with a flowchart display. In the center, a translucent screen merges both methodologies.](./images/teams.png)
+![Split-scene image contrasting Agile and Waterfall work environments: Left side shows Sarah, an Agile leader, in a vibrant, collaborative setting with tech tools; right side depicts Dan, a Waterfall leader, in a structured, muted office with a flowchart display. In the center, a translucent screen merges both methodologies.](./images/teams.png){ width=4.5in }
 
 In the technologically pulsating heart of Silicon Heights, where innovation and digital dreams intertwine, stood CodeSage, a software company with a reputation as formidable as its achievements. At the cusp of embarking on a pivotal project, the company braced for a venture that would test its core principles and redefine its future.
 

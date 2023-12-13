@@ -1,6 +1,6 @@
 # The Unlikely Mentor
 
-![Jordan assisting Lily with her coding project in a vibrant tech metropolis at dusk."](./images/unlikely-mentor.png)
+![Jordan assisting Lily with her coding project in a vibrant tech metropolis at dusk.](./images/unlikely-mentor.png){ width=4.5in }
 
 In the bustling tech metropolis of Digital Heights, the community was abuzz with innovation and competition. Among them was Jordan, a rising star at FutureTech, known for his coding prowess in JavaScript and Angular. His days were a blur of coding sprints and product launches, his reputation as a brilliant but solitary developer well-known.
 

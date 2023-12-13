@@ -1,6 +1,6 @@
 # Midnight Code Request: Networking and Resource Sharing in Tech
 
-![A late-night coding session between Jim and Herb](./images/midnight-code.png)
+![A late-night coding session between Jim and Herb](./images/midnight-code.png){ width=4.5in }
 
 In a bustling tech hub, there were two coworkers, Jim and Herb, who worked for a cutting-edge software company. Jim was an established software developer, renowned for his mastery in JavaScript and TypeScript. His colleague, Herb, was newer to the field, brimming with eagerness and a thirst for knowledge.
 

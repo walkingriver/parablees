@@ -22,6 +22,4 @@ As you turn the pages of _Techno Tales,_ I invite you to embark on this journey 
 
 Thank you for picking up this book. I hope it enriches your life as much as it has enriched mine in writing it.
 
-With warmth and gratitude,
-
-Michael Callaghan
+-Michael Callaghan

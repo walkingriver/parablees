@@ -1,5 +1,7 @@
 # Image Credits
 
+![Abstract representation of AI collaboration in story and image creation, showcasing a fusion of text and digital imagery.](../chapters/images/image-credits.png){ width=4.5in }
+
 The images that grace the pages of this book are the product of a revolutionary collaboration between advanced artificial intelligence (AI) technologies: Dall-E and ChatGPT.
 
 At the heart of these visual creations is Dall-E, an AI program developed by OpenAI. Dall-E is a specialized image-generation model, capable of creating detailed and nuanced images from textual descriptions. It works by interpreting the text inputs and translating them into visual representations, often with stunning accuracy and creativity.

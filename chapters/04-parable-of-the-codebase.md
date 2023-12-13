@@ -1,6 +1,6 @@
 # The Parable of the Codebase
 
-![Image of three developers and a Tech Entrepreneur in a modern office](./images/codebase.png)
+![Image of three developers and a Tech Entrepreneur in a modern office](./images/codebase.png){ width=4.5in }
 
 Once in the land of Silicon Valley, there was a renowned Tech Entrepreneur, known for his innovative software products and exceptional leadership. He had built a company revered for its cutting-edge technology and was about to embark on a sabbatical to explore new innovations.
 

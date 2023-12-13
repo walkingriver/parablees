@@ -1,4 +1,4 @@
-### The Parable of the Open Source Contribution
+# Open Source Forgiveness
 
 ![Jonathan mentoring William in a collaborative tech workspace with Phillip observing supportively](./images/collaboration.png)
 

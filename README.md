@@ -74,7 +74,7 @@ Here's an extended example of what `title.yaml` might look like:
 ```yaml
 ---
 title: Technotales
-subtitle: 10 Modern Parables for the Tech Enthusiast
+subtitle: Reimagined Parables for the Modern Age
 author: Michael D. Callaghan
 language: en-US
 rights: © 2023 Michael D. Callaghan, All Rights Reserved

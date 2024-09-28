@@ -5,13 +5,16 @@
   "contributors": [],
   "version": "1.0.0",
   "description": "This is a sample book used to demonstrate how to write a book with Markdown, Pandoc, VS Code and other free tools.",
-  "scripts": {
-    "split-md": "awk '/^# / { n++; } { if (n) print > (\"chapter-\" sprintf(\"%02d\", n-1) \".md\"); }' $1",
-    "generate:epub": "pandoc -o ./output/$npm_package_name.epub --resource-path=chapters --toc --toc-depth=1  ./front-matter/*.md ./chapters/*.md ./back-matter/*.md title.yaml",
-    "generate:pdf": "pandoc -o ./output/$npm_package_name.pdf  --toc --toc-depth=1 ./front-matter/*.md ./chapters/*.md ./back-matter/*.md title.yaml",
-    "generate:word": "pandoc -o ./output/$npm_package_name.docx  --resource-path=chapters --reference-doc=custom-reference.docx --toc --toc-depth=1 ./front-matter/*.md ./chapters/*.md ./back-matter/*.md title.yaml",
-    "generate:kdp": "pandoc -o ./output/$npm_package_name.kdp.docx --resource-path=chapters --reference-doc=custom-reference.docx ./front-matter/*.md ./chapters/*.md ./back-matter/*.md title.yaml"
-  },
+"scripts": {
+  "split-md": "awk '/^# / { header = $0; sub(/^# /, \"\", header); gsub(/[^a-zA-Z0-9 ]/, \"\", header); gsub(/ /, \"-\", header); n++; } { if (n) print > (sprintf(\"%02d-%s.md\", n, header)); }' $1",
+  "convert-md": "pandoc -o ./output/$npm_package_name.md --resource-path=chapters $1",
+  "convert-d2d": "pandoc -o ./output/$npm_package_name.epub --resource-path=chapters --reference-doc=custom-reference.docx ./front-matter/*.md ./chapters/*.md ./back-matter/*.md title.yaml",
+  "convert-epub": "pandoc -o ./output/$npm_package_name.epub --resource-path=chapters --toc --toc-depth=1 ./front-matter/*.md ./chapters/*.md ./back-matter/*.md title.yaml",
+  "convert-pdf": "pandoc -o ./output/$npm_package_name.pdf --resource-path=chapters --toc --toc-depth=1 ./front-matter/*.md ./chapters/*.md ./back-matter/*.md title.yaml",
+  "convert-word": "pandoc -o ./output/$npm_package_name.docx --resource-path=chapters --reference-doc=custom-reference.docx --toc --toc-depth=1 ./front-matter/*.md ./chapters/*.md ./back-matter/*.md title.yaml",
+  "convert-kdp": "pandoc -o ./output/$npm_package_name.kdp.docx --resource-path=chapters --reference-doc=custom-reference.docx ./front-matter/*.md ./chapters/*.md ./back-matter/*.md title.yaml",
+  "test": "node sample-code/test.js"
+},
   "keywords": [],
   "license": "ISC"
 }

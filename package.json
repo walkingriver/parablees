@@ -1,10 +1,10 @@
 {
   "name": "techno-tales",
-  "displayName": "Techno Tales: Reimagined Parables for the Modern Age",
+  "displayName": "Techno Tales: Modern Allegories for Business and Life",
   "author": "Michael D. Callaghan",
   "contributors": [],
   "version": "1.0.0",
-  "description": "This is a sample book used to demonstrate how to write a book with Markdown, Pandoc, VS Code and other free tools.",
+  "description": "Techno Tales is a collection of modern allegories that explore the intersection of technology, business, and life. Each story is a parable that offers a unique perspective on the challenges and opportunities of the digital age. These tales provide valuable insights for anyone navigating the complexities of the modern world.",
 "scripts": {
   "split-md": "awk '/^# / { header = $0; sub(/^# /, \"\", header); gsub(/[^a-zA-Z0-9 ]/, \"\", header); gsub(/ /, \"-\", header); n++; } { if (n) print > (sprintf(\"%02d-%s.md\", n, header)); }' $1",
   "convert-md": "pandoc -o ./output/$npm_package_name.md --resource-path=chapters $1",

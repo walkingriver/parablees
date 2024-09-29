@@ -1,8 +1,25 @@
 ---
 title: Techno Tales
-subtitle: 11 Modern Allegories for Business and Life
+subtitle: Modern Allegories for Business and Life
+cover-image: chapters/images/cover.jpg
+abstract: >
+  Techno Tales is a collection of modern allegories that explore the intersection of technology, business, and life. Each story is a parable that offers a unique perspective on the challenges and opportunities of the digital age. These tales provide valuable insights for anyone navigating the complexities of the modern world.
+toc: true
+include-before:
+  - |
+    ### Copyright © 2024 by Michael D. Callaghan  
+    
+    All rights reserved.
+
+    No part of this book may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the author, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law. For permission requests, contact the author at michael@walkingriver.com.
+
+    Cover design by the author.
 author: Michael D. Callaghan
 language: en-US
-rights: © 2023 Michael D. Callaghan, All Rights Reserved
-cover-image: chapters/images/cover.png
+rights: © 2024 Michael D. Callaghan, All Rights Reserved
+geometry: "paperwidth=6in, paperheight=9in, top=0.5in, bottom=0.5in, left=0.5in, right=0.5in"
+header-includes:
+  - |
+    \usepackage{etoolbox}
+    \preto{\section}{\clearpage}
 ---

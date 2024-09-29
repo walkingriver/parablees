@@ -8,3 +8,4 @@ yarn.lock
 *.epub
 *.pdf
 output/
+.DS_Store

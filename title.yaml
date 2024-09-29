@@ -7,6 +7,8 @@ abstract: >
 toc: true
 include-before:
   - |
+    ![Cover Image](chapters/images/cover.jpg){ width=100% }
+
     ### Copyright © 2024 by Michael D. Callaghan  
     
     All rights reserved.
@@ -20,6 +22,8 @@ rights: © 2024 Michael D. Callaghan, All Rights Reserved
 geometry: "paperwidth=6in, paperheight=9in, top=0.5in, bottom=0.5in, left=0.5in, right=0.5in"
 header-includes:
   - |
+    \usepackage{graphicx}
+    \usepackage{float}
     \usepackage{etoolbox}
     \preto{\section}{\clearpage}
 ---
